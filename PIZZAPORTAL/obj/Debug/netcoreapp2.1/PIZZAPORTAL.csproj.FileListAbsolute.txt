@@ -1,0 +1,14 @@
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\bin\Debug\netcoreapp2.1\PIZZAPORTAL.deps.json
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\bin\Debug\netcoreapp2.1\PIZZAPORTAL.runtimeconfig.json
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\bin\Debug\netcoreapp2.1\PIZZAPORTAL.runtimeconfig.dev.json
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\bin\Debug\netcoreapp2.1\PIZZAPORTAL.dll
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.csprojAssemblyReference.cache
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.csproj.CoreCompileInputs.cache
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.RazorAssemblyInfo.cache
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.RazorAssemblyInfo.cs
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.AssemblyInfoInputs.cache
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.AssemblyInfo.cs
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.RazorTargetAssemblyInfo.cache
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\bin\Debug\netcoreapp2.1\PIZZAPORTAL.pdb
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.dll
+D:\Documents\PJATK\5th\PRO1\PIZZAPORTAL\PIZZAPORTAL\obj\Debug\netcoreapp2.1\PIZZAPORTAL.pdb
